@@ -27,4 +27,7 @@ I'm Bored is a web application that helps you find activities to do when you're 
 4. Click on the "Go" button.
 5. The application will fetch a random activity that matches your criteria and display it on the screen.
 
+![bord](https://github.com/beyzaokten/Activity-Finder/assets/95380183/6818eab3-95bd-4097-b4e9-c5f2f4abf794)
+![bord2](https://github.com/beyzaokten/Activity-Finder/assets/95380183/925084de-5757-426a-a648-a0255ea48a20)
+![bord3](https://github.com/beyzaokten/Activity-Finder/assets/95380183/c7aeb8ed-ae8b-4db0-8fb1-d0c04f6acb3f)
 
